@@ -1,0 +1,9 @@
+ultralytics
+cvzone
+opencv-python
+telegram
+requests
+cryptography
+python-dotenv
+pytest
+
